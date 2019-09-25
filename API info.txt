@@ -1,0 +1,39 @@
+Project Name: YouTubeCommenter
+Application Name: YouTubeCommenter App
+OAuth client Name: YouTubeCommenterOAuth
+
+
+harmoniccolors.fashion1:
+YouTubeCommenter API key: AIzaSyBjW7nrfW6YTAfq9nSeY8Z9torqvfRveWc
+client_secret_fashion1.json
+--------------------------------------------
+
+harmoniccolors.fashion2:
+YouTubeCommenter API key:AIzaSyDjChIsPwJuhRUMLMTT_Sqf8kkUsetngI0
+client_secret_fashion2.json
+--------------------------------------------
+
+harmoniccolors.fashion3:
+YouTubeCommenter API key:AIzaSyDtBAjjkDwXCvxdy5_dCHmJlbdIGWfXiNk
+client_secret_fashion3.json
+--------------------------------------------
+
+harmoniccolors.fashion4:
+YouTubeCommenter API key:AIzaSyAEHNGwRhAf4LEHd2soUFU6sBYjGn3HMu8
+client_secret_fashion4.json
+--------------------------------------------
+
+harmoniccolors.fashion5:
+YouTubeCommenter API key:AIzaSyDF31al5C5rz3Ilm8m7MhIyvupcYigJU2U
+client_secret_fashion5.json
+--------------------------------------------
+
+harmoniccolors.fashion6:
+YouTubeCommenter API key:AIzaSyCpUhp397gwbixVxVXmy2gJbns1FqC5BTg
+client_secret_fashion6.json
+--------------------------------------------
+
+appdev.alalloush@gmail.com:
+YouTubeCommenter API key:AIzaSyD0UzhyQ2H6XEQo1aHdi_T1YDVmbcuNdt4
+client_secret_appdev.json
+--------------------------------------------

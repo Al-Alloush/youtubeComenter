@@ -1,0 +1,5 @@
+API Key: AIzaSyCuwe-XejChol09J02h5rStmbtdcQpob60
+
+in terminal:
+pip install google-api-python-client
+pip install google_auth_oauthlib
